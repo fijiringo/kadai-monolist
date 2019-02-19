@@ -116,3 +116,6 @@ p.item-title {
 .user-profile .status ul li .status-value {
   font-size: 18px;
 }
+.buttons_parent{
+  display: flex;
+}
